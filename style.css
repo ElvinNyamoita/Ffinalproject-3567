@@ -12,16 +12,16 @@ nav {
 }
 
 nav a {
-    color: white;
+    color: sky blue;
     margin: 10px;
-    text-decoration: none;
+    text-decoration: green;
 }
 
 /* HERO */
 .hero {
     background: url('https://picsum.photos/1200/500') center/cover;
     height: 50vh;
-    color: blue;
+    color: green;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -35,7 +35,7 @@ nav a {
 }
 
 .card {
-    background: purple;
+    background: sky blue;
     margin: 10px;
     padding: 15px;
     width: 200px;
